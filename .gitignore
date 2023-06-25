@@ -1,7 +1,17 @@
 **/yarn-error.log*
 
 # dependencies
-**/node_modules
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
 
 # misc
 **/.DS_Store
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
