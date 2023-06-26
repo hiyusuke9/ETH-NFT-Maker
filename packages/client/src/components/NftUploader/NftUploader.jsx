@@ -113,7 +113,7 @@ const NftUploader = () => {
       )}
       <div className="title">
         <h2>NFTアップローダー</h2>
-        <p>JpegかPngの画像ファイル</p>
+        <p>JpegかPngの画像ファイルをアップして下さい</p>
       </div>
       <div className="nftUplodeBox">
         <div className="imageLogoAndText">
